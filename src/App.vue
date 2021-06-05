@@ -10,6 +10,7 @@
 export default {
   name: 'App'
 }
+///tests
 </script>
 
 <style>
